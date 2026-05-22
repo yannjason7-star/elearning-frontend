@@ -26,8 +26,8 @@ function Footer() {
         <div>
           <h3 className="text-white font-semibold mb-3">Contact</h3>
           <ul className="flex flex-col gap-2 text-sm">
-            <li>contact@elearnpro.com</li>
-            <li>+237 600 000 000</li>
+            <li>joelsimotasse@gmail.com</li>
+            <li>+237 6 55 00 48 22</li>
           </ul>
         </div>
 
